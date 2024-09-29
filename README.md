@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anushree Chatterjee</h1>
+<h1 align="center">Hi, I'm Anushree Chatterjee 👋</h1>
 <h3 align="center">A passionate Salesforce Developer from India with 2+ years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushree71199&label=Profile%20views&color=0e75b6&style=flat" alt="anushree71199" /> </p>
@@ -19,10 +19,5 @@
 
 - 📫 How to reach me **anushreechatterjee7199@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vGPamI9n050AKTEFXCa-Ld0PX3mjBUw3/view?usp=sharing](https://drive.google.com/file/d/1vGPamI9n050AKTEFXCa-Ld0PX3mjBUw3/view?usp=sharing)
-
 - ⚡ Fun fact **I love solving complex workflows and building automation rules in Salesforce**-(IYKYK)😉
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushree71199&show_icons=true&locale=en&layout=compact" alt="anushree71199" /></p>
 
